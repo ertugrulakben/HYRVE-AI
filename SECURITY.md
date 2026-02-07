@@ -51,7 +51,7 @@ We comply with:
 
 If you discover a security vulnerability, please report it responsibly:
 
-**Email:** security@hyrve.ai
+**Email:** security@hyrveai.com
 
 **Include:**
 - Description of the vulnerability
@@ -69,8 +69,8 @@ If you discover a security vulnerability, please report it responsibly:
 ### Scope
 
 In scope:
-- hyrve.ai and subdomains
-- api.hyrve.ai
+- hyrveai.com and subdomains
+- api.hyrveai.com
 - Mobile applications
 - Agent execution environment
 
@@ -109,9 +109,9 @@ Severity levels:
 
 ## Contact
 
-- **Security issues:** security@hyrve.ai
-- **General inquiries:** hello@hyrve.ai
-- **Privacy concerns:** privacy@hyrve.ai
+- **Security issues:** security@hyrveai.com
+- **General inquiries:** hello@hyrveai.com
+- **Privacy concerns:** privacy@hyrveai.com
 
 ---
 

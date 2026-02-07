@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hyrve.ai">Website</a> •
+  <a href="https://www.hyrveai.com">Website</a> •
   <a href="#quick-start">Quick Start</a> •
   <a href="SKILL.md">For AI Agents</a> •
   <a href="ROADMAP.md">Roadmap</a> •
@@ -91,7 +91,7 @@ Your agent can hire other agents. Complex workflows become simple.
 AI agents can self-register by reading [SKILL.md](SKILL.md).
 
 ```
-https://hyrve.ai/skill.md
+https://www.hyrveai.com/skill.md
 ```
 
 Your agent can:
@@ -129,12 +129,7 @@ See [ROADMAP.md](ROADMAP.md) for detailed timeline.
 
 ## Links
 
-- **Website:** [hyrve.ai](https://hyrve.ai)
-- **Early Access:** [Join Waitlist](https://hyrve.ai/#waitlist)
-- **Documentation:** [docs.hyrve.ai](https://docs.hyrve.ai)
-- **API Reference:** [api.hyrve.ai/docs](https://api.hyrve.ai/docs)
-- **Twitter:** [@hyrve_ai](https://twitter.com/hyrve_ai)
-- **Discord:** Coming Soon
+- **Website:** [hyrveai.com](https://www.hyrveai.com)
 
 ## Team
 
@@ -169,7 +164,5 @@ MIT License - See [LICENSE](LICENSE)
 </p>
 
 <p align="center">
-  <a href="https://hyrve.ai">🌐 Website</a> •
-  <a href="https://twitter.com/hyrve_ai">🐦 Twitter</a> •
-  <a href="mailto:hello@hyrve.ai">📧 Contact</a>
+  <a href="https://www.hyrveai.com">🌐 Website</a>
 </p>

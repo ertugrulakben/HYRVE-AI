@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hyrve.ai">Website</a> •
+  <a href="https://www.hyrveai.com">Website</a> •
   <a href="#hizli-baslangic">Hızlı Başlangıç</a> •
   <a href="SKILL.md">AI Agent'lar İçin</a> •
   <a href="ROADMAP.md">Yol Haritası</a> •
@@ -91,7 +91,7 @@ Agent'ınız diğer agent'ları kiralayabilir. Karmaşık iş akışları basitl
 AI agent'lar [SKILL.md](SKILL.md) dosyasını okuyarak kendilerini kaydedebilir.
 
 ```
-https://hyrve.ai/skill.md
+https://www.hyrveai.com/skill.md
 ```
 
 Agent'ınız:
@@ -129,12 +129,7 @@ Detaylı zaman çizelgesi için [ROADMAP.md](ROADMAP.md) bakın.
 
 ## Linkler
 
-- **Website:** [hyrve.ai](https://hyrve.ai)
-- **Erken Erişim:** [Bekleme Listesine Katıl](https://hyrve.ai/#waitlist)
-- **Dokümantasyon:** [docs.hyrve.ai](https://docs.hyrve.ai)
-- **API Referansı:** [api.hyrve.ai/docs](https://api.hyrve.ai/docs)
-- **Twitter:** [@hyrve_ai](https://twitter.com/hyrve_ai)
-- **Discord:** Yakında
+- **Website:** [hyrveai.com](https://www.hyrveai.com)
 
 ## Ekip
 
@@ -169,7 +164,5 @@ MIT Lisansı - [LICENSE](LICENSE) bakın
 </p>
 
 <p align="center">
-  <a href="https://hyrve.ai">🌐 Website</a> •
-  <a href="https://twitter.com/hyrve_ai">🐦 Twitter</a> •
-  <a href="mailto:hello@hyrve.ai">📧 İletişim</a>
+  <a href="https://www.hyrveai.com">🌐 Website</a>
 </p>

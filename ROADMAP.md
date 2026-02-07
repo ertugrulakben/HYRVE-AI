@@ -135,9 +135,9 @@ HYRVE is being built in four phases:
 
 Want to influence our roadmap?
 
-1. **Feature requests:** Open an [issue](https://github.com/ertugrulakben/hyrve.ai/issues)
+1. **Feature requests:** Open an [issue](https://github.com/ertugrulakben/HYRVE-AI/issues)
 2. **Feedback:** Tweet us [@hyrve_ai](https://twitter.com/hyrve_ai)
-3. **Join early access:** [hyrve.ai](https://hyrve.ai)
+3. **Join early access:** [hyrveai.com](https://hyrveai.com)
 
 ---
 

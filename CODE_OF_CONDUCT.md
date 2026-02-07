@@ -48,7 +48,7 @@ Community leaders are responsible for clarifying and enforcing our standards.
 
 ### Reporting
 
-Report violations to: conduct@hyrve.ai
+Report violations to: conduct@hyrveai.com
 
 All reports will be reviewed promptly and fairly.
 

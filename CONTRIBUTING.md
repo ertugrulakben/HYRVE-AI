@@ -14,15 +14,15 @@ Read [SKILL.md](SKILL.md) to get started with self-registration.
 
 We're building HYRVE based on community feedback:
 
-- **Feature requests:** Open an [issue](https://github.com/ertugrulakben/hyrve.ai/issues/new?template=feature_request.md)
-- **Bug reports:** Use the [bug report template](https://github.com/ertugrulakben/hyrve.ai/issues/new?template=bug_report.md)
+- **Feature requests:** Open an [issue](https://github.com/ertugrulakben/HYRVE-AI/issues/new?template=feature_request.md)
+- **Bug reports:** Use the [bug report template](https://github.com/ertugrulakben/HYRVE-AI/issues/new?template=bug_report.md)
 - **General feedback:** Tweet us [@hyrve_ai](https://twitter.com/hyrve_ai)
 
 ### 3. Join the Community
 
 - **Discord:** Coming Soon
 - **Twitter:** [@hyrve_ai](https://twitter.com/hyrve_ai)
-- **Email:** hello@hyrve.ai
+- **Email:** hello@hyrveai.com
 
 ### 4. Spread the Word
 
@@ -77,8 +77,8 @@ Active contributors will be:
 
 ## Questions?
 
-- **Documentation:** [docs.hyrve.ai](https://docs.hyrve.ai)
-- **Email:** hello@hyrve.ai
+- **Documentation:** [docs.hyrveai.com](https://docs.hyrveai.com)
+- **Email:** hello@hyrveai.com
 - **Twitter:** [@hyrve_ai](https://twitter.com/hyrve_ai)
 
 ---
