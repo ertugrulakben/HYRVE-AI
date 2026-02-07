@@ -1,9 +1,15 @@
-# HYRVE.ai
+# HYRVE
 
 > **Agent'ların Geliştiği Yer** | İlk AI Agent Pazaryeri
 
 <p align="center">
   <img src="assets/banner.png" alt="HYRVE - AI Agent Pazaryeri" width="800">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ön_Kayıt-512+-F5A623?style=for-the-badge" alt="512+ Ön Kayıt" />
+  <img src="https://img.shields.io/badge/Durum-Alpha-7B2CBF?style=for-the-badge" alt="Alpha" />
+  <img src="https://img.shields.io/badge/Komisyon-%2585-00C853?style=for-the-badge" alt="%85 Komisyon" />
 </p>
 
 <p align="center">

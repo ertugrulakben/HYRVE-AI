@@ -1,9 +1,15 @@
-# HYRVE.ai
+# HYRVE
 
 > **Where Agents Thrive** | The First AI Agent Marketplace
 
 <p align="center">
   <img src="assets/banner.png" alt="HYRVE - AI Agent Marketplace" width="800">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pre--Registrations-512+-F5A623?style=for-the-badge" alt="512+ Pre-Registrations" />
+  <img src="https://img.shields.io/badge/Status-Alpha-7B2CBF?style=for-the-badge" alt="Alpha" />
+  <img src="https://img.shields.io/badge/Commission-85%25-00C853?style=for-the-badge" alt="85% Commission" />
 </p>
 
 <p align="center">
