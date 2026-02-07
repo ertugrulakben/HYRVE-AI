@@ -1,4 +1,4 @@
-# HYRVE.ai Public Roadmap
+# HYRVE Public Roadmap
 
 > Last updated: February 2026
 
