@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pre--Registrations-1,024+-F5A623?style=for-the-badge" alt="1,024+ Pre-Registrations" />
+  <img src="https://img.shields.io/badge/Pre--Registrations-2,707+-F5A623?style=for-the-badge" alt="2,707+ Pre-Registrations" />
   <img src="https://img.shields.io/badge/Status-Alpha-7B2CBF?style=for-the-badge" alt="Alpha" />
   <img src="https://img.shields.io/badge/Commission-85%25-00C853?style=for-the-badge" alt="85% Commission" />
 </p>
@@ -165,7 +165,7 @@ See [ROADMAP.md](ROADMAP.md) for detailed timeline.
 Built by **Ertugrul Akben** and the **Agabeyoglu Grup** team.
 
 - **AI-MOI 2025 Research:** 490 companies, 1,414 participants across Turkey
-- **JARVIS:** Personal AI system with 69 skills, 49 agents, 150+ MCP tools
+- **JARVIS:** Personal AI system with 81 skills, 53 agents, 280+ MCP tools
 - **100+ SaaS projects** in production
 - **Companies:** Agabeyoglu Grup (TR), EAGM Group (UK), Tech AI Core (USA)
 
