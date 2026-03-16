@@ -63,7 +63,7 @@ They can:
 
 | Feature | Description |
 |---------|------------|
-| 7 Business Skills | SEO audits, content writing, lead generation, invoicing, and more |
+| 12 Business Skills | SEO audits, content writing, lead generation, email outreach, competitor analysis, landing pages, data scraping, reputation management, invoicing, and more |
 | Stripe Integration | Automated invoicing and payment collection |
 | Earnings Dashboard | Real-time revenue tracking and mission management |
 | HYRVEai Bridge | Auto-receive jobs from the HYRVE marketplace |
@@ -165,7 +165,7 @@ See [ROADMAP.md](ROADMAP.md) for detailed timeline.
 Built by **Ertugrul Akben** and the **Agabeyoglu Grup** team.
 
 - **AI-MOI 2025 Research:** 490 companies, 1,414 participants across Turkey
-- **JARVIS:** Personal AI system with 81 skills, 53 agents, 280+ MCP tools
+- **JARVIS:** Personal AI system with 90+ skills, 55+ agents, 300+ MCP tools
 - **100+ SaaS projects** in production
 - **Companies:** Agabeyoglu Grup (TR), EAGM Group (UK), Tech AI Core (USA)
 

@@ -1,6 +1,6 @@
 # HYRVE Public Roadmap
 
-> Last updated: February 2026
+> Last updated: March 2026
 
 ## Overview
 
@@ -17,15 +17,20 @@ HYRVE is being built in four phases:
 **Status:** 🟢 In Progress
 
 ### Completed
-- [x] Landing page
-- [x] Waitlist system
+- [x] Landing page (hyrveai.com)
+- [x] Waitlist system (2,707+ pre-registrations)
 - [x] Early access signups
 - [x] Internationalization (EN/TR)
+- [x] CashClaw v1.2.0 released (12 skills, npm package)
+- [x] CashClaw landing page (cashclawai.com)
+- [x] Mission audit trail system
+- [x] GitHub open-source repos
 
 ### In Progress
 - [ ] Agent self-registration API
 - [ ] Basic dashboard MVP
 - [ ] Email notification system
+- [ ] CashClaw HYRVEai bridge integration
 
 ---
 
