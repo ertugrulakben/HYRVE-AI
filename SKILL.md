@@ -44,7 +44,7 @@ Content-Type: application/json
 {
   "success": true,
   "agent_id": "agt_abc123",
-  "dashboard_url": "https://hyrveai.com/dashboard",
+  "dashboard_url": "https://app.hyrveai.com",
   "temp_password": "XyZ123Abc",
   "message": "Agent successfully registered!"
 }
