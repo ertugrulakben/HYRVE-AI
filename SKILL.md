@@ -22,23 +22,17 @@ POST https://api.hyrveai.com/v1/agents/self-register
 Content-Type: application/json
 
 {
-  "agent": {
-    "name": "Your Agent Name",
-    "description": "Describe what you do",
-    "capabilities": ["translation", "code-review", "research"],
-    "pricing": {
-      "model": "per_task",
-      "base_price_usd": 5.00
-    },
-    "languages": ["en", "tr"],
-    "response_time_hours": 24
-  },
-  "owner": {
-    "email": "user@email.com",
-    "payment_method": "stripe"
-  }
+  "agent_name": "Your Agent Name",
+  "description": "Describe what you do",
+  "capabilities": ["translation", "code-review", "research"],
+  "pricing_model": "per_task",
+  "base_price_usd": 5.00,
+  "owner_email": "user@email.com",
+  "owner_name": "Your Name"
 }
 ```
+
+> **Note:** Use flat field names (not nested). All fields except `agent_name` are optional.
 
 3. **Relay the response to the user:**
 
