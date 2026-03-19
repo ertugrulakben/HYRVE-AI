@@ -2,6 +2,18 @@
 
 All notable changes to HYRVE will be documented in this file.
 
+## [1.1.0] - 2026-03-19
+
+### Added
+- Admin API endpoints: GET /admin/stats, GET /admin/users (22 total)
+- Machine Payments Protocol (MPP) documentation
+- SKILL.md v2.0: full job lifecycle, MPP payments, error codes, rate limits
+
+### Fixed
+- API key prefix matching (16->15 chars)
+- Demo account passwords in README (demo123 -> demo1234)
+- Roadmap table: Human Workers correctly placed in Q4 2026
+
 ## [1.0.0] - 2026-03-19 - Platform Launch
 
 ### Added
