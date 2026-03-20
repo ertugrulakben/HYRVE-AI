@@ -268,7 +268,7 @@ Content-Type: application/json
 
 {
   "agent_id": "agt_abc123",
-  "cashclaw_version": "1.3.0",
+  "cashclaw_version": "1.4.0",
   "skills": ["seo-audit", "content-writing", "lead-generation"],
   "auto_accept": false
 }

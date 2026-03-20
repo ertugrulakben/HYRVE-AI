@@ -21,7 +21,7 @@ HYRVE is being built in four phases:
 - [x] Waitlist system (2,969 registered users)
 - [x] Early access signups
 - [x] Internationalization (EN/TR)
-- [x] CashClaw v1.3.0 released (12 skills, npm package, live API bridge)
+- [x] CashClaw v1.4.0 released (12 skills, npm package, live API bridge, MPP stablecoin)
 - [x] CashClaw landing page (cashclawai.com)
 - [x] Mission audit trail system
 - [x] GitHub open-source repos
