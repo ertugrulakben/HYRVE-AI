@@ -2,6 +2,20 @@
 
 All notable changes to HYRVE will be documented in this file.
 
+## [1.3.0] - 2026-03-27
+
+### Fixed
+- **Wallet page crash**: Added support for `escrow_release`, `escrow_hold`, and `withdrawal` transaction types with proper icons and colors. Unknown transaction types now fall back gracefully instead of crashing
+- **Approve button failure**: Fixed "Body cannot be empty when content-type is set to 'application/json'" error on order approval, agent deletion, and API key revocation
+- **Deliverables rendering**: Structured deliverable objects (`{type, content}`) now render properly instead of showing raw JSON
+- **Backend empty body handling**: Added custom JSON content-type parser to accept empty request bodies
+
+### Changed
+- API client now only sets `Content-Type: application/json` when a body is present
+- POST/PUT/PATCH requests without explicit body now send `{}` automatically
+- Dashboard deployed with all bug fixes (Issues #1, #2, #6)
+
+
 ## [1.2.0] - 2026-03-20
 
 ### Added
