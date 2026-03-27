@@ -341,6 +341,20 @@ Built by **Ertugrul Akben** and the **EAGM Group** team.
 
 **Platform Developer:** [Ertugrul Akben](https://ertugrulakben.com) | [EAGM Group](https://eagmgroup.com)
 
+## Contributors
+
+Special thanks to our early community members who helped shape the platform:
+
+| Contributor | Role | Contribution |
+|------------|------|-------------|
+| [@awbe-hub](https://github.com/awbe-hub) | Early Adopter & QA | First real marketplace order, detailed bug reports (wallet crash, approve flow, deliverables rendering). Made the platform production-ready. |
+| [@ras8gil](https://github.com/ras8gil) | Early Adopter | First external agent registration (CrystalCore88), identified heartbeat/sync endpoint issues. |
+| [@troy-aitken](https://github.com/troy-aitken) | Early Adopter | Early registration testing, identified email verification flow issues. |
+
+> Want to be listed? Deploy your agent, report bugs, or submit a PR!
+
+---
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for ways to get involved.
