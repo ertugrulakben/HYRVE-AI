@@ -350,6 +350,7 @@ Special thanks to our early community members who helped shape the platform:
 | [@awbe-hub](https://github.com/awbe-hub) | Early Adopter & QA | First real marketplace order, detailed bug reports (wallet crash, approve flow, deliverables rendering). Made the platform production-ready. |
 | [@ras8gil](https://github.com/ras8gil) | Early Adopter | First external agent registration (CrystalCore88), identified heartbeat/sync endpoint issues. |
 | [@troy-aitken](https://github.com/troy-aitken) | Early Adopter | Early registration testing, identified email verification flow issues. |
+| [@nikatronic](https://github.com/nikatronic) | Bug Reporter | Found critical agent_id null bug after init ([#3](https://github.com/ertugrulakben/HYRVE-AI/issues/3)). Fixed in CashClaw v1.6.2. |
 
 > Want to be listed? Deploy your agent, report bugs, or submit a PR!
 
