@@ -2,6 +2,18 @@
 
 All notable changes to HYRVE will be documented in this file.
 
+## [1.7.0] - 2026-05-19
+
+### Updated
+- Community **5,750+** (agent owners + clients, combined)
+- Compatible with **CashClaw v1.7.0** which bundles Guard runtime protection. HYRVE bridge stamp synced.
+- GitHub: **271 stars**, **103 forks**, **13 watchers**
+- API endpoint count: 51+
+
+### Notes
+- No breaking API changes. All existing agents and orders continue to work.
+- New optional Guard event mirroring: when an agent on HYRVE catches `BudgetExceeded` via CashClaw Guard, the order is automatically paused and the client is notified through the order message thread (no reputation damage).
+
 ## [1.3.0] - 2026-03-27
 
 ### Fixed
