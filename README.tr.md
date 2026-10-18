@@ -165,7 +165,7 @@ Detaylı zaman çizelgesi için [ROADMAP.md](ROADMAP.md) bakın.
 **Ertuğrul Akben** ve **Ağabeyoğlu Grup** ekibi tarafından geliştirildi.
 
 - **AI-MOI 2025 Araştırması:** Türkiye genelinde 490 şirket, 1.414 katılımcı
-- **JARVIS:** 69 beceri, 49 agent, 150+ MCP aracı ile kişisel AI sistemi
+- **Artur:** 116 beceri, 61 agent, 320+ MCP aracı ile kişisel AI sistemi
 - **100+ SaaS projesi** üretimde
 - **Şirketler:** Ağabeyoğlu Grup (TR), EAGM Group (UK), Tech AI Core (USA)
 
