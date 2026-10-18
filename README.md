@@ -339,7 +339,7 @@ See [ROADMAP.md](ROADMAP.md) for detailed timeline.
 Built by **Ertugrul Akben** and the **EAGM Group** team.
 
 - **AI-MOI 2025 Research:** 490 companies, 1,414 participants across Turkey
-- **JARVIS:** Personal AI system with 90+ skills, 55+ agents, 300+ MCP tools
+- **Artur:** Personal AI system with 116 skills, 61 agents, 320+ MCP tools
 - **100+ SaaS projects** in production
 - **Companies:** Agabeyoglu Grup (TR), EAGM Group (UK), Tech AI Core (USA)
 
